@@ -25,7 +25,7 @@ Execute the program using runserver command.
 
 ## PROGRAM
 ```
- <html>
+<html>
     <head>
         <title>Slot Timetable</title>
     </head>
@@ -78,13 +78,56 @@ Execute the program using runserver command.
         
 </table>
 </center>
+<center><table>
+<TR>
+    <TH>S.NO</TH>
+    <TH>Slot code</TH>
+    <TH>Slot name</TH>
+</TR>
+<TR>
+    <TD>1.</TD>
+    <TD>19AI303</TD>
+    <TD>Engineering Mechanics and Product Development</TD>
+</TR>
+<TR>
+    <TD>2.</TD>
+    <TD>19AI414</TD>
+    <TD>Fundamentals of Web Application Development</TD>
+</TR>
+<TR>
+    <TD>3.</TD>
+    <TD>19CY205</TD>
+    <TD>Principles of Chemistry in Engineering</TD>
+<TR>
+    <TD>4.</TD>
+    <TD>19EE404</TD>
+    <TD>Digital Electronics</TD>
+</TR>
+<TR>
+    <TD>5.</TD>
+    <TD>19EN101</TD>
+    <TD>Communicative English</TD>
+</TR>
+<TR>
+    <TD>6.</TD>
+    <TD>19EY708</TD>
+    <TD>Career Development Skills</TD>
+</TR>
+<TR>
+    <TD>7.</TD>
+    <TD>19MA222</TD>
+    <TD>Probability and Queueing Models</TD>
+</TR>
+
+</table></center>
 </body>
-</html>                 
+</html>             
 ```
 
 ## OUTPUT
 
-![alt text](<Slot timetable EX3.jpg>)
+![slot table](https://github.com/user-attachments/assets/e1abdc00-c6f3-44c4-82cc-121183bfe33e)
+
 
 
 
